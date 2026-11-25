@@ -24,7 +24,7 @@ The research focuses on the design and implementation of a robotic waiter system
 
 ## Publication Links
 
-- **IEEE Xplore:** https://ieeexplore.ieee.org/xpl/conhome/8261001/proceeding
+- **IEEE Xplore:** https://ieeexplore.ieee.org/abstract/document/8275250
 - **DOI:** https://doi.org/10.1109/EICT.2017.8275250
 
 ## ISBN Information
