@@ -38,8 +38,13 @@ The research focuses on the design and implementation of a robotic waiter system
 
 The published research paper is available in this repository.
 
-## Author
+## Authors
 
-Md. Tareq
+**Md. Tareq**  
+Department of Electrical & Electronic Engineering, Uttara University, Bangladesh  
+Email: mtareq366@gmail.com
 
-Research Interests: Robotics, Artificial Intelligence, Machine Learning, and Computer Vision.
+**Md. Kamruzzaman**  
+Department of Electrical & Electronic Engineering, Uttara University, Bangladesh  
+Email: mkzamanmitdu@gmail.com
+
